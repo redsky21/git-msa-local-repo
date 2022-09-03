@@ -8,6 +8,6 @@ gateway:
 spring:
   datasource:
     driver-class-name: org.mariadb.jdbc.Driver
-    url: jdbc:mariadb://redsky21.duckdns.org:3306/msa_user_db
+    url: jdbc:mariadb://redsky21.duckdns.org:3306/msa_catalog_db
     username: boot
     password: "{cipher}2555ce5346c765f89e7379e48d4d1c49b1d3cff182e66bb8c7f0c9773162ab18"
