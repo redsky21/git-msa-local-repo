@@ -10,4 +10,4 @@ spring:
     driver-class-name: org.mariadb.jdbc.Driver
     url: jdbc:mariadb://redsky21.duckdns.org:3306/msa_order_db
     username: boot
-    password: "{cipher}2555ce5346c765f89e7379e48d4d1c49b1d3cff182e66bb8c7f0c9773162ab18"
+    password: '{cipher}AQANSdtmMkqaRA+khPPPhOB0ePHiaQziaJ9dGimJzfe7aU4+ADmKTFK5rZdhmyh/Y4R/jJsEFgpuUk8MvUJsbGk/NbGRmyIT7W9eiagumHu2lF42w3E4SWgOPVXKbsqpzlXF0OB8V0C+rGtWuKid9mEhcGbJV4uuDT4EVZWNauMpVBYNp/Zj50FxkPsuPGdqDJAcyVlUN9hwVXuaJrdrt1piV7MUKqXJ2qudhcFjEGJzBm96fIj57ckUIpl63Txl1s7yv3pMGJfflc+whOmXRoMFWX9nnihcCeiDu+g16GJrMvfbMBMMYPz/m2p2vLaPWz49mYtAxf2i2MaeSv7BEZH/s0RW7BOZl9BiI5rkVTu90HqHDtaTD56hSBFJHIOWsKw='
