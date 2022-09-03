@@ -16,4 +16,4 @@ spring:
     #    password: chae2121!
     url: jdbc:mariadb://redsky21.duckdns.org:3306/msa_user_db
     username: boot
-    password: '{cipher}9dbb434968e14c33fe405dd1af201370362a8ed59c5e4fbf529b56af1cca3d66'
+    password: '{cipher}d3314ffac2427d1c9bd7f852f8dcf633a4c51622e93a43f437d8ff0707cf6024'
