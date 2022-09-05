@@ -9,5 +9,7 @@ spring:
   datasource:
     driver-class-name: org.mariadb.jdbc.Driver
     url: jdbc:mariadb://redsky21.duckdns.org:3306/msa_user_db
-    username: boot
-    password: '{cipher}AQANSdtmMkqaRA+khPPPhOB0ePHiaQziaJ9dGimJzfe7aU4+ADmKTFK5rZdhmyh/Y4R/jJsEFgpuUk8MvUJsbGk/NbGRmyIT7W9eiagumHu2lF42w3E4SWgOPVXKbsqpzlXF0OB8V0C+rGtWuKid9mEhcGbJV4uuDT4EVZWNauMpVBYNp/Zj50FxkPsuPGdqDJAcyVlUN9hwVXuaJrdrt1piV7MUKqXJ2qudhcFjEGJzBm96fIj57ckUIpl63Txl1s7yv3pMGJfflc+whOmXRoMFWX9nnihcCeiDu+g16GJrMvfbMBMMYPz/m2p2vLaPWz49mYtAxf2i2MaeSv7BEZH/s0RW7BOZl9BiI5rkVTu90HqHDtaTD56hSBFJHIOWsKw='
+#    username: boot
+#    password: '{cipher}AQANSdtmMkqaRA+khPPPhOB0ePHiaQziaJ9dGimJzfe7aU4+ADmKTFK5rZdhmyh/Y4R/jJsEFgpuUk8MvUJsbGk/NbGRmyIT7W9eiagumHu2lF42w3E4SWgOPVXKbsqpzlXF0OB8V0C+rGtWuKid9mEhcGbJV4uuDT4EVZWNauMpVBYNp/Zj50FxkPsuPGdqDJAcyVlUN9hwVXuaJrdrt1piV7MUKqXJ2qudhcFjEGJzBm96fIj57ckUIpl63Txl1s7yv3pMGJfflc+whOmXRoMFWX9nnihcCeiDu+g16GJrMvfbMBMMYPz/m2p2vLaPWz49mYtAxf2i2MaeSv7BEZH/s0RW7BOZl9BiI5rkVTu90HqHDtaTD56hSBFJHIOWsKw='
+    username: msa-user
+    password: '{cipher}AQAYoGFiXi1VQSthakSMdWU0fSmqfpo4kmmT1VLUkI6zcDoIWY7uxcSSy8CfDdQ5OfUbFG1SU4SIDXxWBet+f9/7TZFufPG/XMvT8MHYwZcYdCcVzdzhvoXigp6RwXW2ds8MlYEDfhsKdeKZTcPIiczK9PDiREhil6XMaFH/cUogfMSHbp+GotMqW7tcDXmqSO6bvNZai2BH54+vyqiffvX7qyyrCIPMDQpDOA6TNddxLz5iDJfd2qdB8Y2f4bxw+M0dQdFhxtZKliAub7XMRgEDmq/541+iQac8fIDzoxxJ62CEneK/4gL0/4UmR9U5m7Cy11vp134Jd9BLNlC+GuZ5Oef/tvu4bBWfi4CkEtjaSAVmyHMiDHGxP8shrq9ncLM='
