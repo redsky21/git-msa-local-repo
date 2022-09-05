@@ -10,4 +10,4 @@ spring:
     driver-class-name: org.mariadb.jdbc.Driver
     url: jdbc:mariadb://redsky21.duckdns.org:3306/msa_order_db
     username: msa-user
-    password: '{cipher}AQAYoGFiXi1VQSthakSMdWU0fSmqfpo4kmmT1VLUkI6zcDoIWY7uxcSSy8CfDdQ5OfUbFG1SU4SIDXxWBet+f9/7TZFufPG/XMvT8MHYwZcYdCcVzdzhvoXigp6RwXW2ds8MlYEDfhsKdeKZTcPIiczK9PDiREhil6XMaFH/cUogfMSHbp+GotMqW7tcDXmqSO6bvNZai2BH54+vyqiffvX7qyyrCIPMDQpDOA6TNddxLz5iDJfd2qdB8Y2f4bxw+M0dQdFhxtZKliAub7XMRgEDmq/541+iQac8fIDzoxxJ62CEneK/4gL0/4UmR9U5m7Cy11vp134Jd9BLNlC+GuZ5Oef/tvu4bBWfi4CkEtjaSAVmyHMiDHGxP8shrq9ncLM='
+    password: 'chae2121!'
