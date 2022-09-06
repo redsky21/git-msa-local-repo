@@ -5,9 +5,9 @@
 gateway:
   ip: 172.18.0.5
 
-spring:
-  datasource:
-    driver-class-name: org.mariadb.jdbc.Driver
-    url: jdbc:mariadb://redsky21.duckdns.org:3306/msa_order_db
-    username: msa-user
-    password: 'chae2121!'
+#spring:
+#  datasource:
+#    driver-class-name: org.mariadb.jdbc.Driver
+#    url: jdbc:mariadb://redsky21.duckdns.org:3306/msa_order_db
+#    username: msa-user
+#    password: 'chae2121!'
